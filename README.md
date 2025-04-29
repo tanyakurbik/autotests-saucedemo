@@ -9,8 +9,8 @@
 1. Клонировать репозиторий или скачать проект.
 
 ```bash
-git clone <your-repository-url>
-cd <your-project-folder>
+git clone https://github.com/tanyakurbik/autotests-saucedemo
+cd autotests-saucedemo
 ```
 
 2. Установить зависимости:
